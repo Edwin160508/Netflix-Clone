@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Aux from '../../hoc/tAux';
+import Aux from '../../hoc/tAux/tAux';
 import Backdrop from './Backdrop'
 
 

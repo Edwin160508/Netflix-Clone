@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Aux from '../../hoc/tAux';
+import Aux from '../../hoc/tAux/tAux';
 import AddIcon from '../../static/images/add.svg';
 import PlayIcon from '../../static/images/play-button.svg';
 
